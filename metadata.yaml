@@ -1,0 +1,36 @@
+_repo: Lyyrillisi--runoelmia-1_20883
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Forsman, Kaarlo
+    alias: Koskimies, Kaarlo
+    birthdate: 1851
+    deathdate: 1918
+    gutenberg_agent_id: '7957'
+    url: http://www.gutenberg.org/2009/agents/7957
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runeberg, Johan Ludvig
+    alias: Runeberg, J. L. (Johan Ludvig)
+    birthdate: 1804
+    deathdate: 1877
+    gutenberg_agent_id: '2842'
+    url: http://www.gutenberg.org/2009/agents/2842
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
+description: ''
+gutenberg_issued: '2007-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20883'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+title: Lyyrillisiä runoelmia 1
+url: http://www.gutenberg.org/ebooks/20883
